@@ -1,0 +1,6 @@
+[submodule "soa-back"]
+	path = soa-back
+	url = https://github.com/kekens/soa-lab-1
+[submodule "soa-front"]
+	path = soa-front
+	url = https://github.com/kekens/soa-front
